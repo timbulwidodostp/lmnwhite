@@ -2,4 +2,4 @@
 1
 2
 3
-p relicoef Raykov's factor reliability coefficient Use relicoef With STATA 19
+p lmnwhite White Non Normality Lagrange Multiplier Test after OLS Regression Use lmnwhite With STATA 19
