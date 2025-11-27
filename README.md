@@ -3,6 +3,8 @@ White Non Normality Lagrange Multiplier Test after OLS Regression Use lmnwhite W
 
 OLS White Non Normality Lagrange Multiplier Test Use lmnwhite With STATA 19
 
+https://www.youtube.com/watch?v=-oHU-_Ean0k
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
